@@ -2,7 +2,7 @@
 
 A simple beginner-friendly JavaScript project that changes the **background color** to a randomly generated one each time you click the button. Built to practice **DOM manipulation** and working with **random numbers** in JavaScript.
 
-🔗 **Live Demo:** [Color Flipper](https://itslokeshx.github.io/js1/)
+🔗 **Live Demo:** [Color Flipper](https://itslokeshx.github.io/color-flipper/)
 
 ---
 
